@@ -3,4 +3,5 @@ school21 projects
 (no task description)
 
 BARB = Сеть барбершопов
+
 DOST = Сервис службы доставки
